@@ -8,6 +8,6 @@ it allows you to set your own certificate details such as username and password,
 
 in fact, I've also made things a bit easier, by writing a script to spin up a private registry as well so that you don't have to go through tons of commands :)
 
-running registrygen.sh will spin up a local registry, then run the certgen.sh to secure it, and you're good to go hooray!
-
 p.s. it works on debian-based linux for now
+
+disclaimer: you're welcomed to play around with the scripts as experiment at your own risk, this project is not meant to serve other purposes beyond that
